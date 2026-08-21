@@ -1,6 +1,7 @@
 # Pizza_Sales_SQL
 
 🍕 Pizza Sales Analysis Using SQL
+
 📌 Project Overview
 
 This project analyzes pizza sales data using SQL to extract meaningful business insights. The analysis covers order volume, revenue, pizza categories, sizes, sales trends, and customer ordering patterns.
